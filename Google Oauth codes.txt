@@ -1,3 +1,6 @@
 Client Id : 844887208804-n3i65ueknqulbslt3vaiafhmd6j87n8k.apps.googleusercontent.com
 
 Client Secret : IMp51vFgL--oJlsc9R-ED3En
+
+
+DuTzH6JypMcPHbBM :- password
